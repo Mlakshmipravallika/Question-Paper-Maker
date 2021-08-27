@@ -1,9 +1,9 @@
 # Question-Paper-Maker
 This project enables the generation of multiple question papers in an easy way.
 
-#In this project mainly include of three parts
+#This project mainly include of three parts
 
-# 1. windows Apllicatin to run in windows 🐱‍👤
+# 1. windows Application to run in windows 🐱‍👤
 
 
 # 2. Windows Installer (helps install exe in windows) 🐱‍💻
